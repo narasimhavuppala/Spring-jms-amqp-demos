@@ -1,7 +1,12 @@
-# rabbitmq-java-spring-demo
+# Spring boot Messaging
+ - Using JMS API (Active MQ) ..This is independet of Broker Server
+    - IBM MQ
+    - Apache Active MQ Server
+    - Broker Independent
+ - Using AMQP(Advanced Messaging Queue Ptotocol) 
+    - Rabbit MQ
+ - Using Stream messging
+   - Kafka
+   - Higky Scalable
 
-![default](https://user-images.githubusercontent.com/23150134/51821563-ace6a880-22ea-11e9-8234-f76ca4642e27.png)
 
-Run and navigate to `http://localhost:8080`
-
-any future extensions http://www.rabbitmq.com/extensions.html
